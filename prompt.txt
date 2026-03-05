@@ -1,0 +1,6 @@
+I am teaching Data Science in my python course. Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:
+
+[{"title":"Lambda Functions - Tutorial #5.mp4","number":"5.mp4","start":103.0,"end":105.8,"text":" But what are the lambda functions exactly used for?"},{"title":"Lambda Functions - Tutorial #5.mp4","number":"5.mp4","start":63.3,"end":65.4,"text":" And that's how lambda functions work."},{"title":"Lambda Functions - Tutorial #5.mp4","number":"5.mp4","start":181.1,"end":183.3,"text":" So yeah, that was about lambda functions."},{"title":"Lambda Functions - Tutorial #5.mp4","number":"5.mp4","start":0.0,"end":2.4,"text":" Let's now talk about lambda functions in Python."},{"title":"Lambda Functions - Tutorial #5.mp4","number":"5.mp4","start":10.7,"end":14.4,"text":" So lambda functions are anonymous inline functions."}]
+---------------------------------
+"where is lambda function taught"
+User asked this question related to the video chunks, you have to answer in a human way (dont mention the above format, its just for you) where and how much content is taught in which video (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions related to the course
