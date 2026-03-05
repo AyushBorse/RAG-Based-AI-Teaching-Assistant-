@@ -214,6 +214,3 @@ Interested in AI, Data Science, and Intelligent Systems
 📧 Email: ayushborse40@gmail.com
 
 ⭐ If you found this project useful, consider starring the repository.
-Use the file preprocess_json to convert the json files to a dataframe with Embeddings and save it as a joblib pickle
-
-
